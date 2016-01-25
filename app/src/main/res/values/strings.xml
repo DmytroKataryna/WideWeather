@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WideWeather</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hint_search">city…</string>
+
+    <string name="fontello_icon_humidity">\uE804</string>
+    <string name="fontello_icon_pressure">\uE800</string>
+    <string name="fontello_icon_celsius">\uE801</string>
+    <string name="empty_data_text2">Please type city name in a search field</string>
+    <string name="empty_data_text">No data</string>
+    <string name="forecast_icon">forecast weather image logo</string>
+
+</resources>
